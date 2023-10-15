@@ -7,8 +7,10 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "О сайте"
+      - topics.qmd
+      - timetable.qmd
+      - tips.qmd
 
 format:
   html:
