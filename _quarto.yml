@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: "О сайте"
       - topics.qmd
+      - collaboration.qmd
       - timetable.qmd
       - tips.qmd
 
